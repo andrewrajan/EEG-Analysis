@@ -21,3 +21,4 @@ Install the necessary files from above, libraries, and tools: mne, numpy, matplo
   doi = {10.13026/C2K01R},
   url = {https://doi.org/10.13026/C2K01R}
 }
+https://physionet.org/content/chbmit/1.0.0/
