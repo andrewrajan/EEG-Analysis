@@ -1,6 +1,6 @@
 "# EEG-Analysis" 
 
-This is an EEG analysis tool that reads EDF data files of seizure from the CHB-MIT Scalp EEG Database and displays it on an interface. It currently only reads files:
+This is an EEG analysis tool that reads EDF data files of seizure from the CHB-MIT Scalp EEG Database and displays it on an interface.
 chb01_01.edf
 chb01_02.edf
 chb01_03.edf
